@@ -1,2 +1,8 @@
 # Desenvolvimento-de-aplicativo---Equipe-Azul
-Calculator app
+Simple version of a calculator app for Android developed in java.
+Functionalities: 
+-Add;
+-Subtract;
+-Divide; 
+-Multiply.
+
